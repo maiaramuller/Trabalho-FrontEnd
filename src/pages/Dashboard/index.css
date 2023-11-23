@@ -1,0 +1,31 @@
+.header {
+  background-color: #aa00ff;
+  height: 150px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.headerText {
+  margin: 20vh;
+  padding: 0;
+  color: #fff;
+  padding-top: 30px;
+}
+
+.body {
+  margin: auto;
+  max-width: 980px;
+  margin-bottom: 50px;
+}
+
+.logout {
+  font-size: 17px;
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: #aa00ff;
+  height: 40px;
+  width: 100px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+}
